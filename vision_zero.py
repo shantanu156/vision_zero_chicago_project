@@ -4,7 +4,7 @@ Created on Tue Oct 13 12:05:14 2020
 
 @author: Team Challengers
 """
-# lets make it work
+# other way
 # loading libraries
 import pandas as pd
 

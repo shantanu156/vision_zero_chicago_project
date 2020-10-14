@@ -5,7 +5,6 @@ Created on Tue Oct 13 12:05:14 2020
 @author: Team Challengers
 """
 # other way
-# loading libraries
 import pandas as pd
 
 df = pd.read_csv("crashes.sample2020.csv")
